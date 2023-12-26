@@ -1,0 +1,39 @@
+/* Comment.css */
+
+.comment {
+    margin-left: 20px;
+    border-left: 2px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .comment-content {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .author {
+    font-weight: bold;
+  }
+  
+  .reply-section {
+    margin-top: 5px;
+  }
+  
+  .reply-input {
+    padding: 5px;
+    margin-right: 5px;
+  }
+  
+  .reply-btn {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .nested-comments {
+    margin-left: 20px;
+  }
+  
